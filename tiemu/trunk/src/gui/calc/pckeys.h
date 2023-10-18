@@ -206,10 +206,10 @@
 #define PCKEY_NEXT 0x69
 #define PCKEY_END 0x67
 #define PCKEY_HOME 0x61
-#define PCKEY_LEFT 0x64
-#define PCKEY_UP 0x62
-#define PCKEY_RIGHT 0x66
-#define PCKEY_DOWN 0x68
+#define PCKEY_LEFT 0x71
+#define PCKEY_UP 0x6F
+#define PCKEY_RIGHT 0x72
+#define PCKEY_DOWN 0x74
 #define PCKEY_SELECT 0x29
 #define PCKEY_PRINT 0x6F
 #define PCKEY_EXECUTE 0xff
